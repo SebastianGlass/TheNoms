@@ -1,0 +1,19 @@
+{
+    "width": 16,
+    "height": 96,
+    "file": "img/wall1.png",
+
+    "tiles": [{
+            "name": "wallpaper1",
+            "position": { "x": 0, "y": 0 },
+            "price": 0,
+            "tags": []
+        },
+        {
+            "name": "wooden_outdoor",
+            "position": { "x": 1, "y": 0 },
+            "price": 3,
+            "tags": []
+        }
+    ]
+}

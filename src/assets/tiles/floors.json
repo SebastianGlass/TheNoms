@@ -1,0 +1,19 @@
+{
+    "width": 32,
+    "height": 16,
+    "file": "img/floor.png",
+
+    "tiles": [{
+            "name": "grass",
+            "position": { "x": 0, "y": 0 },
+            "price": 0,
+            "tags": ["non-buyable"]
+        },
+        {
+            "name": "check floor",
+            "position": { "x": 1, "y": 0 },
+            "price": 3,
+            "tags": []
+        }
+    ]
+}
